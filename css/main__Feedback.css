@@ -1,0 +1,93 @@
+.main__wrapper-slider--content-width {
+    height: min-content;
+}
+
+.slider {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 4vh;
+}
+
+.slider__wrapper-previous {
+    max-width: 17px;
+    margin-right: 30px;
+}
+
+.slider__wrapper-next {
+    max-width: 17px;
+    margin-left: 30px;
+}
+
+.info__wrapper-img {
+    display: flex;
+    align-items: center;
+    max-width: 550px;
+
+}
+
+.info__img-not-use {
+    filter: grayscale(100%);
+    max-width: 109px;
+    max-height: 109px;
+
+}
+
+.info__img {
+    max-width: 135px;
+    max-height: 135px;
+}
+
+.info__wrapper-coment {
+    color: #3a3f4b;
+    text-align: center;
+
+}
+
+.info__comment {
+    font-family: Lora;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 5vh;
+    max-width: 560px;
+}
+
+.info__contact-name {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 300;
+    margin-top: 3vh;
+    color: #2e333f;
+}
+
+.info__contact-email {
+    text-decoration: underline;
+}
+
+.info__wrapper-active {
+    display: flex;
+    align-items: center;
+    margin-top: 7vh;
+    max-width: 60px;
+}
+
+.info__active {
+    display: block;
+    max-width: 12px;
+    max-height: 12px;
+    margin-bottom: 10vh;
+}
+
+
+
+    /*!* Text style for "" *!*/
+    /*font-family: Roboto;*/
+    /*font-weight: 300;*/
+    /*!* Text style for "Linda from" *!*/
+    /*font-family: "Open Sans";*/
+    /*font-size: 18px;*/
+    /*!* Text style for "example.co" *!*/
+    /*font-family: "Open Sans";*/
+    /*font-size: 18px;*/
+    /*someTextInTextarea-decoration: underline;*/

@@ -1,0 +1,11 @@
+.our-client__logo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 75px;
+}
+
+.our-client__wrap-img {
+    max-width: 145px;
+}
